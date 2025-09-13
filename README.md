@@ -15,10 +15,7 @@ Storage: IPFS/Pinata
 Wallet: MetaMask integration
 Code Quality: ESLint (Airbnb style)
 
- Screenshots(Add Figma wireframes here once designed)
-Home Screen
-Player Screen
-Profile Screen Quick StartClone the repo: git clone https://github.com/<your-username>/liSin.git
+Quick StartClone the repo: git clone https://github.com/<your-username>/liSin.git
 Install dependencies: cd liSin && npm install
 Set up env: Copy .env.example to .env and add keys (Infura, MongoDB, Pinata, MetaMask).
 Run backend: npm run dev:server
