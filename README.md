@@ -1,5 +1,7 @@
 # liSin
-liSin: Decentralized music streaming on Base L2. Artists get 80% revenue ($0.008/stream), listeners earn 10% as liSin Coins (7/10min) by listening—paid per play! Sanctions-proof via IPFS &amp; crypto payouts. Open-source MVP: 1k users, 100 songs. Neon UI, fair Web3. Fund on Gitcoin! #MusicMoney
+liSin: Decentralized music streaming on Base L2. 
+
+Artists get 80% revenue ($0.008/stream), listeners earn 10% as liSin Coins (7/10min) by listening—paid per play! Sanctions-proof via IPFS &amp; crypto payouts. Open-source MVP: 1k users, 100 songs. Neon UI, fair Web3. Fund on Gitcoin! #MusicMoney
 liSin: Decentralized Music Streaming on Base L2
 Empower artists with 80% revenue share ($0.008/stream) and let listeners earn 10% as liSin Coins (7/10min) by listening—get paid per play! Sanctions-proof via IPFS & crypto payouts. Open-source MVP for 1k users, 100 songs. Neon UI, fair Web3 vibes. FeaturesStream & Earn: Listen to music and accumulate liSin Coins (redeemable for crypto).
 Artist Payouts: 80% of streams to creators, 10% to listeners, 10% platform.
